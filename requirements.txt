@@ -1,0 +1,4 @@
+chromadb>=0.4.4
+openai>=1.7.2
+tqdm
+selenium
